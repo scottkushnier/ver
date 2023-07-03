@@ -1,3 +1,7 @@
 Here is ver1 file
+<<<<<<< HEAD
 and some more (in ver1)
+=======
+no ver2!
+>>>>>>> ver2
 
